@@ -27,7 +27,7 @@ Store-Img {
     justify-content: space-between;
 }
 
-.contentRow {
+/* .contentRow {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
@@ -36,4 +36,4 @@ Store-Img {
     /* margin-left: -15px; */
     display: flex;
     justify-content: space-evenly;
-}
+} */
