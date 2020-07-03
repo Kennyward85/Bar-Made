@@ -27,7 +27,7 @@ Store-Img {
     justify-content: space-between;
 }
 
-.row {
+.contentRow {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
