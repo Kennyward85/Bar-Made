@@ -7,7 +7,7 @@ $("#cocktail-name-btn").click(function(){
   //Search by ingredient name hide
   $(".user-chose-ingredient").hide();
 $("#ingredient-name-btn").click(function(){
-    });
+    }); 
 
 $(document).ready(function () {
     var apiKey = "9973533"
